@@ -17,4 +17,5 @@ fields:
       format: markdown
   label: Content
 pages:
+- _posts/fuck-thats-beautiful.md
 - test-page.md
